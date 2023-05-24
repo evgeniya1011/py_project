@@ -5,3 +5,11 @@ def add_numbers(a, b):
 
 
 add_numbers(5, 7)
+
+
+def subtract_numbers(a, b):
+    result = a-b
+    print(result)
+
+
+subtract_numbers(8, 1)
